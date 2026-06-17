@@ -1,3 +1,3 @@
-# HL2SB++ LUA WIKI
+# HL2SB++ WIKI
 
-For begginers and developers
+For players, Lua begginers, addon creators and developers
