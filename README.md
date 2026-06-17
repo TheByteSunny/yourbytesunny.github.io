@@ -1,1 +1,3 @@
-# HL2-SBPP
+# HL2SB++ LUA WIKI
+
+For begginers and developers
